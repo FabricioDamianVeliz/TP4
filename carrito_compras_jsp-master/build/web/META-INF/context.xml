@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context antiJARLocking="true" path="/carrito_compras_jsp">
+  <Resource auth="Container" driverClassName="org.postgresql.Driver" maxActive="100" maxIdle="30" name="jdbc/carrito_compras" password="yko1uc1awd" type="javax.sql.DataSource" url="jdbc:postgresql://127.0.0.1:5432/carrito_compras" username="postgres"/>
+</Context>
